@@ -10,7 +10,7 @@
     ssh-keygen -t rsa -C "youmail@gmail.com"
 --it will ceated at C:\users\your_name\.shh
 
-### Add public key in github
+## Add public key in github
 setting -> add ssh key
 
 ### Open Source Tree 
