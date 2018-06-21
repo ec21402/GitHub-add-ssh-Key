@@ -3,11 +3,11 @@
 ## Open git bash
 
 ### move to your user's folder
-cd /c/users/your_name
+    cd /c/users/your_name
 
 ### create public and private key
 
-ssh-keygen -t rsa -C "youmail@gmail.com"
+    ssh-keygen -t rsa -C "youmail@gmail.com"
 --it will ceated at C:\users\your_name\.shh
 
 ### Add public key in github
